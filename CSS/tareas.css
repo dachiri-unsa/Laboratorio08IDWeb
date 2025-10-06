@@ -1,0 +1,12 @@
+li:nth-child(odd) {
+    color: gray;
+}
+li::before {
+    content: "===>";
+}
+li:hover {
+    background-color: white;
+}
+.hecho::after {
+    content: " \/";
+} 
