@@ -1,3 +1,12 @@
 body {
     background-color: rgb(93, 100, 112);
 }
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+nav {
+    border: 2px solid black;
+    background: rgb(167, 182, 202);
+    padding: 10px;
+    margin: 15px;
+}
